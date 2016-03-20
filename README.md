@@ -6,6 +6,8 @@ Hey, Edgard, I took the time to make this so it would be easier for you to do. I
 1. Click on build
 2. Click on Download PDF
 
+Note: This method doesn't doesn't add the graphs to the PDF. The original in Google Drive does have it.
+
 [Make tables here](http://www.tablesgenerator.com/)
 
 [LaTeX Wikibooks](https://en.wikibooks.org/wiki/LaTeX)
